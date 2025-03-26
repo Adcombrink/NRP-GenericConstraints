@@ -1,6 +1,10 @@
 # HealthcareScheduling-GenericConstraints-SMT-MILP
 
-This repository contains the implementation and additional details of _**A Comparative Study of SMT and MILP for the Nurse Rostering Problem**_ by Alvin Combrink, Stephie Do, Kristofer Bengtsson, Sabino Franceso Roselli, and Martin Fabian.
+This repository contains the implementation and additional details of 
+_**A Comparative Study of SMT and MILP for the Nurse Rostering Problem**_ 
+by Alvin Combrink, Stephie Do, Kristofer Bengtsson, Sabino Franceso Roselli, and Martin Fabian.
+
+
 
 ## Features
 
@@ -9,6 +13,7 @@ This repository contains the implementation and additional details of _**A Compa
     - SMT Solver: Z3
     - MILP Solver: Gurobi
 - **Experimental Evaluation**: Benchmarks comparing solver performance on both synthetic and real-world-inspired scheduling problems.
+
 
 
 ## Repository Structure
@@ -25,6 +30,8 @@ This repository contains the implementation and additional details of _**A Compa
 ├── LICENSE                      # License information
 └── requirements.txt             # Required Python libraries and dependencies
 ```
+
+
 
 ## Getting Started
 
@@ -45,6 +52,8 @@ pip install -r requirements.txt
 
 Scheduler_tester.py - loads and runs a specified problem set on both the SMT and MILP solvers.
 HeatmapPlotter.py - loads the results as heatmaps. 
+
+
 
 ## License
 
