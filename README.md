@@ -1,8 +1,6 @@
 # HealthcareScheduling-GenericConstraints-SMT-MILP
 
-## Overview
-
-This repository contains the implementation and additional details of _**A Comparative Study of SMT and MILP for the Nurse Rostering Problem**_.
+This repository contains the implementation and additional details of _**A Comparative Study of SMT and MILP for the Nurse Rostering Problem**_ by Alvin Combrink, Stephie Do, Kristofer Bengtsson, Sabino Franceso Roselli, and Martin Fabian.
 
 ## Features
 
