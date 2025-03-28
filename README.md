@@ -25,7 +25,7 @@ by Alvin Combrink, Stephie Do, Kristofer Bengtsson, Sabino Franceso Roselli, and
 │   ├── Plots/                   # Result plots
 ├── docs/
 │   ├── AppendixFormulations.pdf # Appendix: Details on the SMT and MILP generic constraint formulations.
-│   ├── AppendixExperiment.pdf   # Appendix: Details on the experimental evaluation.
+│   ├── AppendixExperiments.pdf  # Appendix: Details on the experimental evaluation.
 ├── README.md                    # Project documentation (this file)
 ├── LICENSE                      # License information
 └── requirements.txt             # Required Python libraries and dependencies
