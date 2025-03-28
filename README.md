@@ -1,4 +1,4 @@
-# A Comparative Study of SMT and MILP for the Nurse Rostering Problem
+# NRP-GenericConstraints-SMT-MILP
 
 This repository contains the implementation and additional details of 
 _**A Comparative Study of SMT and MILP for the Nurse Rostering Problem**_ 
