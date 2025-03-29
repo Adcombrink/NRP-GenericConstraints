@@ -3,40 +3,32 @@
 <p align="center">
   Alvin Combrink, Stephie Do, Kristofer Bengtsson, Sabino Franceso Roselli, and Martin Fabian.
 </p>
+<br>
+<br>
 
-
-This repository contains the implementation and additional details of 
-_**A Comparative Study of SMT and MILP for the Nurse Rostering Problem**_ 
-by
-
-
-
-## Features
-
-- **Generic Constraints**: A set of constraint formulations capable of modeling diverse scheduling requirements found in healthcare environments.
-- **SMT and MILP Implementations**: Comparative implementations using state-of-the-art solvers:
-    - SMT Solver: Z3
-    - MILP Solver: Gurobi
-- **Experimental Evaluation**: Benchmarks comparing solver performance on both synthetic and real-world-inspired scheduling problems.
-
-
+This is the official repository for the article **A Comparative Study of SMT and MILP for the Nurse Rostering Problem** to be submitted to [CoDiT25](https://www.codit2025.org/). This repository contains
+- the Python source code for generating instances and comparing the respective SMT and MILP solvers Z3 and Gurobi,
+- additional descriptions, use-examples, and the full formulations of the generic constraints (GC1-GC9) using SMT and MILP,
+- and additional details regarding the experimental evaluation together with supplementary results.
+<br>
 
 ## Repository Structure
 
 ```
-├── src/                         # Source code for the project
-│   ├── Results/                 # Results from solver runs
-│   ├── Scheduling_Problems      # Problem instance generators
-│   ├── Plots/                   # Result plots
+├── src/                           # Source code for the project
+│   ├── Results/                   # Results from solver runs
+│   ├── Scheduling_Problems        # Problem instance generators
+│   ├── Plots/                     # Result plots
+│   ├── requirements.txt           # Required Python libraries and dependencies
 ├── docs/
-│   ├── AppendixFormulations.pdf # Appendix: Details on the SMT and MILP generic constraint formulations.
-│   ├── AppendixExperiments.pdf  # Appendix: Details on the experimental evaluation.
-├── README.md                    # Project documentation (this file)
-├── LICENSE                      # License information
-└── requirements.txt             # Required Python libraries and dependencies
+│   ├── AppendixFormulations.pdf   # Appendix: Details on the SMT and MILP generic constraint formulations.
+│   ├── AppendixExperiments.pdf    # Appendix: Details on the experimental evaluation.
+├── README.md                      # Project documentation (this file)
+└── LICENSE                        # License information
 ```
 
 
+<br>
 
 ## Getting Started
 
@@ -59,6 +51,7 @@ Scheduler_tester.py - loads and runs a specified problem set on both the SMT and
 HeatmapPlotter.py - loads the results as heatmaps. 
 
 
+<br>
 
 ## License
 
