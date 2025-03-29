@@ -1,5 +1,5 @@
 <h1 align="center">A Comparative Study of SMT and MILP for the Nurse Rostering Problem</h1>
-<hr>
+
 <p align="center">
   Alvin Combrink, Stephie Do, Kristofer Bengtsson, Sabino Franceso Roselli, and Martin Fabian.
 </p>
