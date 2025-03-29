@@ -1,8 +1,13 @@
-# NRP-GenericConstraints-SMT-MILP
+<h1 align="center">A Comparative Study of SMT and MILP for the Nurse Rostering Problem</h1>
+<hr>
+<p align="center">
+  Alvin Combrink, Stephie Do, Kristofer Bengtsson, Sabino Franceso Roselli, and Martin Fabian.
+</p>
+
 
 This repository contains the implementation and additional details of 
 _**A Comparative Study of SMT and MILP for the Nurse Rostering Problem**_ 
-by Alvin Combrink, Stephie Do, Kristofer Bengtsson, Sabino Franceso Roselli, and Martin Fabian.
+by
 
 
 
