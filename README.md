@@ -20,7 +20,7 @@ This is the official repository for the article **A Comparative Study of SMT and
 ```
 ├── src/                           # Source code for the project
 │   ├── Results/                   # Results from solver runs
-│   ├── Scheduling_Problems        # Problem instance generators
+│   ├── Scheduling_Problems/       # Problem instance generators
 │   ├── Plots/                     # Result plots
 │   ├── requirements.txt           # Required Python libraries and dependencies
 ├── docs/
