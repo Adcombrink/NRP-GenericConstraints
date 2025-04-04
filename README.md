@@ -9,7 +9,7 @@
 <br>
 <br>
 
-This is the official repository for the article **A Comparative Study of SMT and MILP for the Nurse Rostering Problem** to be submitted to [CoDiT25](https://www.codit2025.org/). This repository contains
+This is the official repository for the article **A Comparative Study of SMT and MILP for the Nurse Rostering Problem** to be submitted to [CoDIT25](https://www.codit2025.org/). This repository contains
 - the Python source code for generating instances and comparing the respective SMT and MILP solvers Z3 and Gurobi,
 - additional descriptions, use-examples, and the full formulations of the generic constraints (GC1-GC9) using SMT and MILP,
 - and additional details regarding the experimental evaluation together with supplementary results.
