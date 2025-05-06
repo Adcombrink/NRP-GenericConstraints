@@ -7,7 +7,6 @@
   Alvin Combrink, Stephie Do, Kristofer Bengtsson, Sabino Franceso Roselli, and Martin Fabian.
 </p>
 <br>
-<br>
 <div align="center">
   <p>
     <img src="https://github.com/user-attachments/assets/08b2f059-6b73-4a3b-a322-4146851ae218" width="28%" hspace="10">
@@ -15,7 +14,7 @@
     <img src="https://github.com/user-attachments/assets/f06158fb-586f-4185-a6c1-4772e9618384" width="28%" hspace="10">
   </p>
 </div>
-
+<br>
 This is the official repository for the article **A Comparative Study of SMT and MILP for the Nurse Rostering Problem** to be submitted to [CoDIT25](https://www.codit2025.org/). This repository contains
 - the Python source code for generating instances and comparing the respective SMT and MILP solvers Z3 and Gurobi,
 - additional descriptions, use-examples, and the full formulations of the generic constraints (GC1-GC9) using SMT and MILP,
