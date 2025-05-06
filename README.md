@@ -10,9 +10,9 @@
 <br>
 <div align="center">
   <p>
-    <img src="https://github.com/user-attachments/assets/08b2f059-6b73-4a3b-a322-4146851ae218" width="31%" hspace="10">
-    <img src="https://github.com/user-attachments/assets/8d19102a-8988-4481-a4d1-c55ef58716df" width="31%" hspace="10">
-    <img src="https://github.com/user-attachments/assets/f06158fb-586f-4185-a6c1-4772e9618384" width="31%" hspace="10">
+    <img src="https://github.com/user-attachments/assets/08b2f059-6b73-4a3b-a322-4146851ae218" width="28%" hspace="10">
+    <img src="https://github.com/user-attachments/assets/8d19102a-8988-4481-a4d1-c55ef58716df" width="28%" hspace="10">
+    <img src="https://github.com/user-attachments/assets/f06158fb-586f-4185-a6c1-4772e9618384" width="28%" hspace="10">
   </p>
 </div>
 
